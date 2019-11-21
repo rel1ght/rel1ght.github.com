@@ -213,7 +213,7 @@ a:hover, a:focus, a:active {
 hr.seperator {
   border: 5px solid#282a36;
 }
-#particles-js canvas {
+#particles-js-canvas-el canvas {
   display: block;
   vertical-align: bottom;
   -webkit-transform: scale(1);
