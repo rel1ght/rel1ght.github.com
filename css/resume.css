@@ -236,3 +236,6 @@ hr.seperator {
   position: relative;
 }
 
+#emptydiv {
+  margin-top: 80px;
+}
