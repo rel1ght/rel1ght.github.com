@@ -54,12 +54,12 @@
       },
       "move": {
         "enable": true,
-        "speed": 12,
+        "speed": 3,
         "direction": "none",
         "random": false,
         "straight": false,
         "out_mode": "out",
-        "bounce": false,
+        "bounce": true,
         "attract": {
           "enable": false,
           "rotateX": 600,
@@ -71,7 +71,7 @@
       "detect_on": "canvas",
       "events": {
         "onhover": {
-          "enable": false,
+          "enable": true,
           "mode": "repulse"
         },
         "onclick": {
