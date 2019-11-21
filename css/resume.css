@@ -233,6 +233,6 @@ hr.seperator {
 #aboutbody {
   z-index: 1; 
   pointer-events: inherit; 
-  position: absolute;
+  position: relative;
 }
 
