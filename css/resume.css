@@ -230,3 +230,9 @@ hr.seperator {
   top: 0px; 
 }
 
+#aboutbody {
+  z-index: 1; 
+  pointer-events: inherit; 
+  position: absolute;
+}
+
