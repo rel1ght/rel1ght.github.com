@@ -237,9 +237,13 @@ hr.seperator {
 }
 
 #emptydiv {
-  margin-top: 80px;
+  margin-top: 190px;
 }
 
 #extraspace{
   height: 300px;
+}
+
+#mobileonlyextraspace {
+  height: 100px;
 }
