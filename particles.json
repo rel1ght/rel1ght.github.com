@@ -47,10 +47,10 @@
       },
       "line_linked": {
         "enable": true,
-        "distance": 300,
+        "distance": 100,
         "color": "#ffffff",
         "opacity": 0.2,
-        "width": 5
+        "width": 1
       },
       "move": {
         "enable": true,
